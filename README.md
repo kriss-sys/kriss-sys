@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋🏼
+ * 💻 I am currently a freshman at University of Oregon majoring in Computer Science, interested in wanting to learn more about coding basics in different coding languages, and finding an intership or job to further my experience in coding overall work environment expectations. 
+  * 🎨 I often spend time in creating art with digitial or traditional pencil and paper, spending time outdoors, and wanting to join more community event!
 
 <!--
 **kriss-sys/kriss-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
