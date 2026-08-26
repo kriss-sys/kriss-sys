@@ -1,5 +1,5 @@
 ## Hello! 👋🏼
- * 💻 I am currently a freshman at University of Oregon majoring in Computer Science, interested in wanting to learn more about coding basics in different coding languages, and finding an intership or job to further my experience in coding overall work environment expectations. 
+ * 💻 I am currently a student at the University of Arizona, I'm interested in wanting to learn more about coding basics in different coding languages, and finding an internship or job to further my experience in coding overall work environment expectations. 
   * 🎨 I often spend time in creating art with digitial or traditional pencil and paper, spending time outdoors, and interested in community events!
 
 <!--
